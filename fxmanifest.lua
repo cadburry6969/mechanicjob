@@ -15,3 +15,7 @@ server_scripts {
   'cc.lua',
   'server.lua'
 }
+
+---------------------------
+-- Made by Cadburry#6969 --
+---------------------------
