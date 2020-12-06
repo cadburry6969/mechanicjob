@@ -1,6 +1,6 @@
 # cc_mechanicjob
 - Created by me on behalf of Creative Central 
-- Commands only , no Menu
+- Commands only , No Portable menu [F6]
 
 # General Commands
 - /tow - Tow any vehicle [3 tow vehicles]
