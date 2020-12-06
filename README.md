@@ -20,7 +20,7 @@
 - Import mechanicjob.sql in your database
 - If you want player management you have to set Config.EnablePlayerManagement to true in config.lua
 - Add this to your server.cfg
-```ensure esx_mechanicjob```
+```ensure cc_mechanicjob```
 
 # Requirements
 - esx_society
