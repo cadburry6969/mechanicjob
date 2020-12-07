@@ -1,7 +1,7 @@
 # cc_mechanicjob
 - Created by me on behalf of Creative Central 
 - Commands only , No Job Menu
-- Note:- Onesync is Required
+# - Note:- Onesync is Required
 
 # General Commands
 - /tow - Tow any vehicle [3 tow vehicles]
