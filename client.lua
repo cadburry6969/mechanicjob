@@ -562,8 +562,8 @@ function OpenMecanoActionsMenu()
 
                     local vehNet = NetworkGetNetworkIdFromEntity(vehicle)
                     local plate = GetVehicleNumberPlateText(vehicle)
-                    TriggerServerEvent('garage:addKeys', plate)
-                    TriggerEvent('notification', 'You received keys to the vehicle.',1)
+                   -- TriggerServerEvent('garage:addKeys', plate)     --ADD YOUR KEY SYSTEM
+                   -- TriggerEvent('notification', 'You received keys to the vehicle.',1)
 
                     TaskWarpPedIntoVehicle(playerPed,  vehicle,  -1)
                   end)
