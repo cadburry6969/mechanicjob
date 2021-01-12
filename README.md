@@ -1,4 +1,4 @@
-# cc_mechanicjob
+# mechanicjob
 - Created by me on behalf of Creative Central 
 - Commands only , No Job Menu
 - Note:- Onesync is Required for bill to work
